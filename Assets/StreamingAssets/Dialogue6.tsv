@@ -1,0 +1,23 @@
+﻿ID	Preguntas	Sprite	Opcion 1	Resultado 1	Opcion 2	Resultado 2	Opcion 3	Resultado 3
+1	...Ah! Hola! Cómo va?	1	Hola...	2	Hola... pasa algo que estás con el celular?	13	Uy, por dios, ya estás con el celular?	21
+2	...(silencio)	1	Ajem!!	3	Qué pasa?	14	Qué, tenés otra cita después de mí?	22
+3	Uh! Eh... Pedimos? Qué querés comer?	2	Pidamos pizza, de qué te gusta?	4	Estamos en una pizzería, así que supongo que pizza	4	Quiero que dejes el celular, es necesario que hables con alguien justo ahora?	21
+4	Esta de anchoas parece rica! Querés?	1	Sí! Me encanta.	5	Seguro	5	No, es un asco!	22
+5	Jajajaja! Mirá este video!	2	Ah... A ver...? Jajaja... Muy bueno...	6	No, gracias.	6	Eh...Mejor no.	6
+6	(silencio)	1	Así que, a qué te dedicás?	7	Qué aburrido!	21	zzzzzz...	20
+7	Eh... Soy estudiante de medicina.	2	Ah! Qué difícil! Conozco varios amigos que estudian medicina y me cuentan que terminan exhaustos, especialmente después de las rondas.	8	Ah, mirá vos.	8	Y qué hacés en tu tiempo libre?	10
+8	Síiii. Jajaja.	1	Ehm.. Y qué te gusta de la medicina?	9	Qué comentario más elocuente.	21	Me aburrí! Me voy!	20
+9	Me encanta la parte social, la relación paciente doctor, viste. La experiencia cara a cara. Esa conexión que se consigue sólo cuando te sentás y mirás a la persona a los ojos!	1	...Claro.	10	JAJAJA! Suena lógico...	10	Uf! Ahora ya lo he oído todo! Chau!	20
+10	... Jajaja.	1	...Bueno! A mí me encantan los niños! Si fuera médica... eh...	11	(silencio)	21	Dios me salve de esta cita.	20
+11	(silencio)	1	...Elegiría... pediatría... Hum... Al diablo! Ey Tomás!! Hola! (pestañeo inocente) Crees que este escote me aprieta mucho el busto? (te sacas la campera)	12	(le tiras un vaso de agua en la cara) IDIOTA!	20	(lloras) snif...	21
+12	Ah! Eh! Oh...!  E...res una mujer hermosa, ese vestido te... favorece!	3	Aww! En serio? Ay... pero, tengo un problema. No sé si me sientan estas bragas... No me acompañarías a un lugar más privado y me das tu... opinión médica?	0	Me favorece más no tenerlo puesto!	0	Quiero todos tus hijos	0
+13	Em, sí, en realidad sí.	2	Jajaja ah...	14	Qué pasa?	14	Ah	14
+14	Me dejó de funcionar el celular y no puedo mandar ni recibir mensajes... creo que voy a tener que resetearlo.	2	Ah... Bueno, ya se arreglará, no?	15	Bueno, pero podemos disfrutar igual sin mensajes no?	15	Y a mí qué? No quiero pasar la cita viéndote arreglar el celular	18
+15	Eeeeh, sí, pasa que después de esto salgo con mis amigos!	1	...Ah.	17	Son las diez de la noche, a qué hora pensás ir?	16	Ahh, ya entiendo... Es que vos sos estúpido...	22
+16	Yyy, tipo a las once. Pero no te preocupes, vos hablame que yo mientras lo arreglo!	1	Acaso tu mamá no te deja quedarte más tarde? JAJAJA!!!	19	...Disculpame?	17	Una hora?!? Y yo qué? Me mato?	20
+17	Mesero! No me traería un mondadientes? Gracias maestro! Pero contame, cómo va todo? De qué trabajas?	1	Para qué querés el mondadientes?	18	...Soy trabajadora social. Trabajo para la ley y defiendo los derechos de los niños!	18	Un mondadientes?? Qué asco! Tenés algo entre los dientes?	22
+18	(silencio)	1	Ajem...	19	...Hola? Ey!	19	Disculpame, pero no vine para que me ignores	20
+19	...Ah, sí! Jajaja... (monda el celular) No puedo abrir el chip...	2	Ah... jaja.	6	Y qué tiene que ver con lo que te estaba diciendo? No me estás escuchando!	20	Sos idiota?	20
+20	Ey! Qué te pasa? Qué crees que sos el centro del mundo? Quiero que sepas que un médico como yo tiene una vida muy estresante! Para estar con mujeres insoportables me voy a casa con mi mamá y mi hermana!	4	Bueno, perdón. Empecemos de nuevo.	6	Sos una amenaza pública para tus pacientes! Te voy a enseñar lo que es ser insoportable!	-1	Morite!	-1
+21	Ey, ey! Tranquila! Perdón, pero tengo un... problema con mi celular	2	Ah! Disculpame! Se puede arreglar no?	15	Qué pasó?	14	Y a mí qué? Estás en una cita conmigo, no con el técnico!	20
+22	Epa! Tampoco me insultes! Calmémonos...	4	Perdón, me extralimité. Mis disculpas	3	... Bueno, está bien.	6	JA! Antes aprendé a respetar el tiempo de los demás!!	20
