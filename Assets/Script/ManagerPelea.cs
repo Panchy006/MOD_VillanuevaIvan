@@ -572,7 +572,7 @@ public class ManagerPelea : MonoBehaviour
 
 
 						yield return StartCoroutine (c);
-						yield return new WaitForSeconds (1);
+						yield return new WaitForSeconds (2);
 					}
 				
 			

@@ -150,7 +150,7 @@ public class Peleador : MonoBehaviour {
 
 			objetivo.SendMessage (accion.mensaje, accion.argumento);
 			print ("mensaje: "+accion.mensaje+" argumento: "+accion.argumento);
-			yield return new WaitForSeconds (1/2);
+			yield return new WaitForSeconds (3/4);
 
 
 			if (accion.nombre == "Especial") {
